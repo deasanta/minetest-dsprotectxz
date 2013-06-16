@@ -10,8 +10,8 @@ Item: dsprotectxz:protectionwand - Wand to check protection of blocks at X,,Z
 Item: dsprotectxz:unprotectwand - Wand to unprotect a column of blocks at X,,Z
 privilege: dsprotectxz - Grant / Revoke user's right to remove a protective block
 
-GitHub: https://github.com/deasanta/ds-minetest/tree/master/dsprotectxz
-Download: https://github.com/deasanta/ds-minetest/archive/master.zip
+GitHub: https://github.com/deasanta/minetest-dsprotectxz/
+Download: https://github.com/deasanta/minetest-dsprotectxz/archive/master.zip
 
 License: (see README.txt)
 Sourcecode: WTFPL
